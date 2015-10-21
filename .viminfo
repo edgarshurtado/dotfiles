@@ -11,8 +11,8 @@
 ~Msle0~/\<Be\>
 
 # Command Line History (newest to oldest):
-:q
 :wq
+:q
 :w
 :set paste
 :NeoBundleClean
@@ -118,18 +118,20 @@
 	Al estar haciendo 
 
 # File marks:
-'0  24  0  ~/.vimrc
-'1  41  71  ~/Documents/git-repos/Daw2ClasesJuanjo/Tema1/Prueba/ejercicio_alex.html
-'2  25  0  ~/Documents/git-repos/Daw2ClasesJuanjo/Tema1/Prueba/ejercicio_alex.html
-'3  25  21  ~/Documents/git-repos/Daw2ClasesJuanjo/Tema1/Prueba/ejercicio_alex.html
-'4  10  4  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
-'5  20  4  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
-'6  5  0  ~/.vimrc
-'7  25  0  ~/.vimrc
-'8  64  0  ~/.vimrc
-'9  46  0  ~/.vimrc
+'0  9  197  ~/README.md
+'1  24  0  ~/.vimrc
+'2  41  71  ~/Documents/git-repos/Daw2ClasesJuanjo/Tema1/Prueba/ejercicio_alex.html
+'3  25  0  ~/Documents/git-repos/Daw2ClasesJuanjo/Tema1/Prueba/ejercicio_alex.html
+'4  25  21  ~/Documents/git-repos/Daw2ClasesJuanjo/Tema1/Prueba/ejercicio_alex.html
+'5  10  4  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
+'6  20  4  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
+'7  5  0  ~/.vimrc
+'8  25  0  ~/.vimrc
+'9  64  0  ~/.vimrc
 
 # Jumplist (newest first):
+-'  9  197  ~/README.md
+-'  1  0  ~/README.md
 -'  24  0  ~/.vimrc
 -'  1  0  ~/.vimrc
 -'  41  71  ~/Documents/git-repos/Daw2ClasesJuanjo/Tema1/Prueba/ejercicio_alex.html
@@ -214,8 +216,27 @@
 -'  10  4  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
 -'  1  0  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
 -'  20  4  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
+-'  24  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  41  71  ~/Documents/git-repos/Daw2ClasesJuanjo/Tema1/Prueba/ejercicio_alex.html
+-'  34  57  ~/Documents/git-repos/Daw2ClasesJuanjo/Tema1/Prueba/ejercicio_alex.html
+-'  19  4  ~/Documents/git-repos/Daw2ClasesJuanjo/Tema1/Prueba/ejercicio_alex.html
+-'  25  35  ~/Documents/git-repos/Daw2ClasesJuanjo/Tema1/Prueba/ejercicio_alex.html
+-'  1  0  ~/Documents/git-repos/Daw2ClasesJuanjo/Tema1/Prueba/ejercicio_alex.html
+-'  10  4  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
+-'  1  0  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
+-'  20  4  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
+-'  21  4  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
+-'  17  4  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
+-'  19  21  /Applications/XAMPP/xamppfiles/htdocs/Desarrollo_Entorno_Servidor/boletines/boletin3/ejer12.php
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	"	9	197
+	^	9	198
+	.	9	197
+	+	9	197
 
 > ~/.vimrc
 	"	24	0
