@@ -1,0 +1,23 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"draw_white_space": "all",
+	"font_size": 18.0,
+
+	// Vintage mode preferences
+	"ignored_packages":
+	[
+	],
+	"vintage_start_in_command_mode": true,
+
+	// Editor configurations
+	"rulers":
+	[
+		80 // sets a ruler at the height of 80 characters
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true, //removes spaces at the end of a
+																							//line
+	"word_wrap": true
+}
