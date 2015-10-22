@@ -22,7 +22,9 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 " NeoBundle “<url to the repo>”
 
 NeoBundle 'https://github.com/easymotion/vim-easymotion.git'
+NeoBundle 'https://github.com/scrooloose/nerdtree.git'
 
+"installation of phpcomplete
 NeoBundle 'Shougo/vimproc', {
       \ 'build' : {
       \     'windows' : 'make -f make_mingw32.mak',

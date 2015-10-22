@@ -1,4 +1,5 @@
 neobundle.vim
+nerdtree
 phpcomplete-extended
 unite.vim
 vim-easymotion
