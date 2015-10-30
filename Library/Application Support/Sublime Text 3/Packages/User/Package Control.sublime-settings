@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Auto Semi-Colon",
+		"Browser Refresh",
+		"Browser Sync",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"LiveReload",
+		"Markdown Preview",
+		"MarkdownLight",
+		"Package Control",
+		"Phpcs",
+		"PHPIntel",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php"
+	]
+}
