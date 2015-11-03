@@ -21,7 +21,10 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 "Use the following format for each plugin:
 " NeoBundle “<url to the repo>”
 
+"Easy Motion
 NeoBundle 'https://github.com/easymotion/vim-easymotion.git'
+
+"Nerd Tree
 NeoBundle 'https://github.com/scrooloose/nerdtree.git'
 
 "installation of phpcomplete
