@@ -67,3 +67,6 @@ let g:markdown_fenced_languages = ['html', 'python', 'bash=sh']
 
 "display line numbers
 set number
+
+"Display a ruler for line length
+set colorcolumn=80
