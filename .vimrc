@@ -58,7 +58,7 @@ NeoBundleCheck
 
 "for getting the syntax highlight by default
 filetype plugin indent on
-syntax on
+" syntax on " Commented becaus of using solarized colorscheme
 
 "Markdown compatibility
 autocmd BufNewFile,BufReadPost *.md set filetype=markdown
@@ -81,4 +81,6 @@ set shiftwidth=4 " when indenting with '>', use 4 spaces width
 set expandtab " On pressing tab, insert 4 spaces
 
 " ------------ Color Scheme -------------
-colorscheme codeschool
+syntax enable
+set background=dark
+colorscheme solarized
