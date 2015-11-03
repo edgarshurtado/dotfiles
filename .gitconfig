@@ -1,0 +1,16 @@
+[filter "media"]
+	required = true
+	clean = git media clean %f
+	smudge = git media smudge %f
+[user]
+	name = Edgar S. Hurtado
+	email = edsanhu@gmail.com
+[core]
+	editor = /Applications/Sublime\\ Text.app/Contents/SharedSupport/bin/subl
+	editor = vim
+[push]
+	default = upstream
+[merg]
+	conflictstyle = diff3
+[credential]
+	helper = osxkeychain
