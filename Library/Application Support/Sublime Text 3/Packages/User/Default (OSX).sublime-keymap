@@ -6,5 +6,7 @@
         "activate": true,
         "browsers" : ["chrome"]
       }
-    }
+    },
+
+    { "keys": ["alt+shift+p"], "command": "pomodoro", "args": {"workingMins": 25, "restingMins": 5} }
 ]
