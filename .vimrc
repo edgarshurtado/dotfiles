@@ -27,6 +27,9 @@ NeoBundle 'https://github.com/easymotion/vim-easymotion.git'
 "Nerd Tree
 NeoBundle 'https://github.com/scrooloose/nerdtree.git'
 
+"You Complete Me
+NeoBundle 'https://github.com/Valloric/YouCompleteMe.git'
+
 "installation of phpcomplete
 NeoBundle 'Shougo/vimproc', {
       \ 'build' : {
