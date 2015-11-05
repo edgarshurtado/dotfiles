@@ -18,5 +18,5 @@ export PS1="$purple\u$green\$(__git_ps1)$blue \W $ $reset"
 # Terminal Alias
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias vim="mvim -v"
-alias klog="mvim -v ~/Documents/git-repos/Knowledge_Log/knowledge_log.md"
+alias klog="subl ~/Documents/git-repos/Knowledge_Log/knowledge_log.md"
 alias git-repos="cd ~/Documents/git-repos/"
