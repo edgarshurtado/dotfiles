@@ -15,6 +15,9 @@ export GIT_PS1_SHOWDIRTYSTATE=1
 # '\W' adds the name of the current directory
 export PS1="$purple\u$green\$(__git_ps1)$blue \W $ $reset"
 
+# CMake
+PATH="/Applications/CMake.app/Contents/bin":"$PATH"
+
 # Terminal Alias
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias vim="mvim -v"
