@@ -30,6 +30,9 @@ NeoBundle 'https://github.com/scrooloose/nerdtree.git'
 "You Complete Me
 NeoBundle 'https://github.com/Valloric/YouCompleteMe.git'
 
+"Auto Pairs
+NeoBundle 'https://github.com/jiangmiao/auto-pairs.git'
+
 "installation of phpcomplete
 NeoBundle 'Shougo/vimproc', {
       \ 'build' : {
@@ -82,7 +85,6 @@ filetype plugin indent on
 set tabstop=4 " show existing tab with 4 spaces width
 set shiftwidth=4 " when indenting with '>', use 4 spaces width
 set expandtab " On pressing tab, insert 4 spaces
-
 " ------------ Color Scheme -------------
 syntax enable
 set background=dark
