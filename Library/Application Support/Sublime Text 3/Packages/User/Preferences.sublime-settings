@@ -1,5 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
+	"auto_wrap": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"dictionary": "Packages/Dictionaries/English (British).dic",
 	"draw_white_space": "all",
@@ -9,15 +10,14 @@
 	[
 	],
 	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
 	"spell_check": false,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true,
-	"auto_wrap": true,
-	"wrap_width": 80,
-	"rulers":
-	[
-		80
-	]
+	"wrap_width": 80
 }
