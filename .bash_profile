@@ -21,6 +21,6 @@ PATH="/Applications/CMake.app/Contents/bin":"$PATH"
 # Terminal Alias
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias vim="mvim -v"
-alias klog="vim ~/Documents/git-repos/Knowledge_Log/knowledge_log.md"
+alias klog="subl ~/Documents/git-repos/Knowledge_Log/knowledge_log.md"
 alias tt="cat ~/Dropbox/DAW/horario.md"
 alias git-repos="cd ~/Documents/git-repos/"
