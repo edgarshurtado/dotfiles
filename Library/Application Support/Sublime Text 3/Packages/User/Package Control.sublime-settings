@@ -29,6 +29,7 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
-		"SublimeLinter-php"
+		"SublimeLinter-php",
+		"Terminal"
 	]
 }
