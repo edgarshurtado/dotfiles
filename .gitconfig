@@ -6,8 +6,7 @@
 	name = Edgar S. Hurtado
 	email = edsanhu@gmail.com
 [core]
-	editor = /Applications/Sublime\\ Text.app/Contents/SharedSupport/bin/subl
-	editor = vim
+	editor = mvim -v
 [push]
 	default = upstream
 [merg]
