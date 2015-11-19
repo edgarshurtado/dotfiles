@@ -24,4 +24,14 @@ alias vim="mvim -v"
 alias klog="vim ~/Documents/git-repos/Knowledge_Log/knowledge_log.md"
 alias tt="cat ~/Dropbox/DAW/horario.md"
 alias git-repos="~/Documents/git-repos/"
-alias tmuxcc="~/Documents/git-repos/Tmux-CheatSheet/tmux-cheatsheet.markdown"
+alias tmuxcc="vim ~/Documents/git-repos/Tmux-CheatSheet/tmux-cheatsheet.markdown"
+
+##
+# Your previous /Users/Rumil/.bash_profile file was backed up as /Users/Rumil/.bash_profile.macports-saved_2015-11-18_at_19:05:38
+##
+
+# MacPorts Installer addition on 2015-11-18_at_19:05:38: adding an appropriate PATH variable for use with MacPorts.
+export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
+# Finished adapting your PATH environment variable for use with MacPorts.
+
+function gi() { curl -L -s https://www.gitignore.io/api/$@ ;}
