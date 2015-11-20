@@ -89,3 +89,8 @@ set expandtab " On pressing tab, insert 4 spaces
 syntax enable
 set background=dark
 colorscheme solarized
+
+"---------- Search Configuration --------------
+
+set incsearch           " search as characters are entered
+set hlsearch            " highlight matches
