@@ -94,3 +94,7 @@ colorscheme solarized
 
 set incsearch           " search as characters are entered
 set hlsearch            " highlight matches
+
+"---------- Use system clipboard  --------------
+set clipboard=unnamed
+
