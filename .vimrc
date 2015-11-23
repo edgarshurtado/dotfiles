@@ -44,7 +44,19 @@ NeoBundle 'Shougo/vimproc', {
      \ }
 NeoBundle 'Shougo/unite.vim'
 NeoBundle 'm2mdas/phpcomplete-extended'
+
+"----- UnitSnips -------------
+NeoBundle 'https://github.com/SirVer/ultisnips.git'
+NeoBundle 'https://github.com/honza/vim-snippets.git'
+
+" Trigger configuration. Do not use <tab> if you use
+" https://github.com/Valloric/YouCompleteMe.
+ let g:UltiSnipsExpandTrigger="<c-a>"
+ let g:UltiSnipsJumpForwardTrigger="<c-j>"
+ let g:UltiSnipsJumpBackwardTrigger="<c-k>"
+
 "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 call neobundle#end()
 

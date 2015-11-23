@@ -3,6 +3,8 @@ auto-pairs
 neobundle.vim
 nerdtree
 phpcomplete-extended
+ultisnips
 unite.vim
 vim-easymotion
+vim-snippets
 vimproc
