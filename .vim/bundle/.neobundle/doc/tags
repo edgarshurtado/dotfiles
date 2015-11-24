@@ -57,6 +57,7 @@
 :NeoBundleUpdate	neobundle.txt	/*:NeoBundleUpdate*
 :NeoBundleUpdate!	neobundle.txt	/*:NeoBundleUpdate!*
 :NeoBundleUpdatesLog	neobundle.txt	/*:NeoBundleUpdatesLog*
+:Obsession	obsession.txt	/*:Obsession*
 :UltiSnipsAddFiletypes	UltiSnips.txt	/*:UltiSnipsAddFiletypes*
 :UltiSnipsEdit	UltiSnips.txt	/*:UltiSnipsEdit*
 :Unite	unite.txt	/*:Unite*
@@ -293,6 +294,7 @@ NERDTreeOptions	NERD_tree.txt	/*NERDTreeOptions*
 NERDTreePathListenerAPI	NERD_tree.txt	/*NERDTreePathListenerAPI*
 NERDTreeRender()	NERD_tree.txt	/*NERDTreeRender()*
 NERD_tree.txt	NERD_tree.txt	/*NERD_tree.txt*
+ObsessionStatus()	obsession.txt	/*ObsessionStatus()*
 PHPCompleteExtendedCheckUpdate	phpcomplete-extended.txt	/*PHPCompleteExtendedCheckUpdate*
 PHPCompleteExtendedClearIndexCache	phpcomplete-extended.txt	/*PHPCompleteExtendedClearIndexCache*
 PHPCompleteExtendedDisable	phpcomplete-extended.txt	/*PHPCompleteExtendedDisable*
@@ -662,6 +664,9 @@ neobundle-usage	neobundle.txt	/*neobundle-usage*
 neobundle-variables	neobundle.txt	/*neobundle-variables*
 neobundle.txt	neobundle.txt	/*neobundle.txt*
 not	UltiSnips.txt	/*not*
+obsession	obsession.txt	/*obsession*
+obsession-status	obsession.txt	/*obsession-status*
+obsession.txt	obsession.txt	/*obsession.txt*
 phpcomplete-extended-commands	phpcomplete-extended.txt	/*phpcomplete-extended-commands*
 phpcomplete-extended-functions	phpcomplete-extended.txt	/*phpcomplete-extended-functions*
 phpcomplete-extended-install	phpcomplete-extended.txt	/*phpcomplete-extended-install*
