@@ -49,15 +49,16 @@ NeoBundle 'm2mdas/phpcomplete-extended'
 NeoBundle 'https://github.com/SirVer/ultisnips.git'
 NeoBundle 'https://github.com/honza/vim-snippets.git'
 
-"---------VIM Obsession-----------------------------
-NeoBundle "https://github.com/tpope/vim-obsession.git"
-
-
 " Trigger configuration. Do not use <tab> if you use
 " https://github.com/Valloric/YouCompleteMe.
  let g:UltiSnipsExpandTrigger="<c-a>"
  let g:UltiSnipsJumpForwardTrigger="<c-j>"
  let g:UltiSnipsJumpBackwardTrigger="<c-k>"
+ 
+"---------VIM Obsession-----------------------------
+NeoBundle "https://github.com/tpope/vim-obsession.git"
+
+
 
 "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
