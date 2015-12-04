@@ -115,3 +115,6 @@ set hlsearch            " highlight matches
 "---------- Use system clipboard  --------------
 set clipboard=unnamed
 
+
+"---------- Nerd Tree Configuration--------------
+map <C-n> :NERDTreeToggle<CR>
