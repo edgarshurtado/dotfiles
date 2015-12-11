@@ -22,13 +22,13 @@ PATH="/Applications/CMake.app/Contents/bin":"$PATH"
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias vim="mvim -v"
 alias klog="vim ~/Documents/git-repos/Knowledge_Log/knowledge_log.md"
+alias todo="vim ~/Documents/git-repos/Knowledge_Log/to-do-list.md"
 alias tt="cat ~/Dropbox/DAW/horario.md"
 alias git-repos="cd ~/Documents/git-repos/"
 alias tmuxcc="vim ~/Documents/git-repos/Tmux-CheatSheet/tmux-cheatsheet.markdown"
+alias jsproject="python3 ~/Documents/git-repos/Scripts/jsproject.py"
+alias session="vim -S Session.vim"
 
-##
-# Your previous /Users/Rumil/.bash_profile file was backed up as /Users/Rumil/.bash_profile.macports-saved_2015-11-18_at_19:05:38
-##
 
 # MacPorts Installer addition on 2015-11-18_at_19:05:38: adding an appropriate PATH variable for use with MacPorts.
 export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
