@@ -10,6 +10,7 @@
 		"AutoWrap",
 		"Browser Refresh",
 		"Browser Sync",
+		"Color Highlighter",
 		"Emmet",
 		"Git",
 		"GitGutter",
@@ -30,6 +31,7 @@
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
-		"Terminal"
+		"Terminal",
+		"VintageLines"
 	]
 }
