@@ -30,6 +30,9 @@ NeoBundle 'https://github.com/scrooloose/nerdtree.git'
 "You Complete Me
 NeoBundle 'https://github.com/Valloric/YouCompleteMe.git'
 
+"Tern For VIM (Better autocompletion for JS)
+NeoBundle 'https://github.com/ternjs/tern_for_vim.git'
+
 "Auto Pairs
 NeoBundle 'https://github.com/jiangmiao/auto-pairs.git'
 

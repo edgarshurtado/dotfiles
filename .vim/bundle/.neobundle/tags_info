@@ -4,6 +4,7 @@ neobundle.vim
 nerdtree
 phpcomplete-extended
 syntastic
+tern_for_vim
 ultisnips
 unite.vim
 vim-easymotion
