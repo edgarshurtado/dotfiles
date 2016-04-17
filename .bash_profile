@@ -28,6 +28,7 @@ alias git-repos="cd ~/Documents/git-repos/"
 alias tmuxcc="vim ~/Documents/git-repos/Tmux-CheatSheet/tmux-cheatsheet.markdown"
 alias jsproject="python3 ~/Documents/git-repos/Scripts/jsproject.py"
 alias session="vim -S Session.vim"
+alias ll="ls -la"
 
 
 # MacPorts Installer addition on 2015-11-18_at_19:05:38: adding an appropriate PATH variable for use with MacPorts.
