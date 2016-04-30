@@ -31,6 +31,7 @@ alias jsproject="python3 ~/Documents/git-repos/Scripts/jsproject.py"
 alias session="vim -S Session.vim"
 alias ll="ls -la"
 alias bioinf="cd ~/Documents/git-repos/Internship/bioinfo-apps"
+alias www="cd /Library/WebServer/Documents"
 
 
 # MacPorts Installer addition on 2015-11-18_at_19:05:38: adding an appropriate PATH variable for use with MacPorts.
