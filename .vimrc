@@ -95,7 +95,7 @@ NeoBundleCheck
 
 "for getting the syntax highlight by default
 filetype plugin indent on
-" syntax on " Commented becaus of using solarized colorscheme
+syntax on " Comment when using solarized colorscheme
 
 "Markdown compatibility
 autocmd BufNewFile,BufReadPost *.md set filetype=markdown
@@ -120,7 +120,7 @@ set expandtab " On pressing tab, insert 4 spaces
 " ------------ Color Scheme -------------
 syntax enable
 set background=dark
-colorscheme solarized
+"colorscheme solarized
 
 "---------- Search Configuration --------------
 
