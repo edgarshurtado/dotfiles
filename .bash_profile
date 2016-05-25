@@ -32,6 +32,8 @@ alias session="vim -S Session.vim"
 alias ll="ls -la"
 alias bioinf="cd ~/Documents/git-repos/Internship/bioinfo-apps"
 alias www="cd /Library/WebServer/Documents"
+alias qstat="cat ~/Documents/git-repos/Internship/cluster-status/testFiles/qstat_output.txt"
+alias qhost="cat ~/Documents/git-repos/Internship/cluster-status/testFiles/qhost_output.txt"
 
 
 # MacPorts Installer addition on 2015-11-18_at_19:05:38: adding an appropriate PATH variable for use with MacPorts.
