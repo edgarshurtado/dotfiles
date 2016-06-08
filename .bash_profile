@@ -18,6 +18,10 @@ export PS1="$purple\u$green\$(__git_ps1)$blue \W $ $reset"
 # PATH for CMake
 PATH="/Applications/CMake.app/Contents/bin":"$PATH"
 
+# Colored `ls`
+export CLICOLOR=1;
+export LSCOLORS=exfxcxdxbxegedabagacad
+
 # Terminal Alias
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias vim="mvim -v"
