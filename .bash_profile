@@ -27,6 +27,7 @@ alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias vim="mvim -v"
 alias klog="vim ~/Documents/git-repos/Knowledge_Log/knowledge_log.md"
 alias todo="vim ~/Documents/git-repos/Knowledge_Log/to-do-list.md"
+alias done="vim ~/Documents/git-repos/Knowledge_Log/completed-log.md"
 alias tt="cat ~/Dropbox/DAW/horario.md"
 alias git-repos="cd ~/Documents/git-repos/"
 alias tmuxcc="vim ~/Documents/git-repos/Tmux-CheatSheet/tmux-cheatsheet.markdown"
@@ -36,9 +37,6 @@ alias session="vim -S Session.vim"
 alias ll="ls -la"
 alias bioinf="cd ~/Documents/git-repos/Internship/bioinfo-apps"
 alias www="cd /Library/WebServer/Documents"
-alias qstat="cat ~/Documents/git-repos/Internship/cluster-status/testFiles/qstat_output.txt"
-alias qhost="cat ~/Documents/git-repos/Internship/cluster-status/testFiles/qhost_output.txt"
-
 
 # MacPorts Installer addition on 2015-11-18_at_19:05:38: adding an appropriate PATH variable for use with MacPorts.
 export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
