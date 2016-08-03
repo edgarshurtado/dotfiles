@@ -16,14 +16,13 @@ export GIT_PS1_SHOWDIRTYSTATE=1
 export PS1="$purple\u$green\$(__git_ps1)$blue \W $ $reset"
 
 # PATH for CMake
-PATH="/Applications/CMake.app/Contents/bin":"$PATH"
+#PATH="/Applications/CMake.app/Contents/bin":"$PATH"
 
 # Colored `ls`
 export CLICOLOR=1;
 export LSCOLORS=exfxcxdxbxegedabagacad
 
 # Terminal Alias
-alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias vim="mvim -v"
 alias klog="vim ~/Documents/git-repos/Knowledge_Log/knowledge_log.md"
 alias todo="vim ~/Documents/git-repos/Knowledge_Log/to-do-list.md"
