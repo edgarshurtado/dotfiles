@@ -6,7 +6,7 @@
 	name = Edgar S. Hurtado
 	email = edsanhu@gmail.com
 [core]
-	editor = mvim -v
+	editor = /usr/local/bin/nvim
 [push]
 	default = upstream
 [merg]
