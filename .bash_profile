@@ -36,6 +36,7 @@ alias session="vim -S Session.vim"
 alias ll="ls -la"
 alias bioinf="cd ~/Documents/git-repos/Internship/bioinfo-apps"
 alias www="cd /Library/WebServer/Documents"
+alias gitl='git log --graph --abbrev-commit --decorate --format=format:"%C(bold yellow)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n"" %C(white)%s%C(reset) %C(dim white)- %an%C(reset)" --all'
 
 # MacPorts Installer addition on 2015-11-18_at_19:05:38: adding an appropriate PATH variable for use with MacPorts.
 export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
