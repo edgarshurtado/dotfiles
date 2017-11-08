@@ -25,16 +25,11 @@ export LSCOLORS=exfxcxdxbxegedabagacad
 # Terminal Alias
 alias vim="mvim -v"
 alias klog="vim ~/Documents/git-repos/Knowledge_Log/knowledge_log.md"
-alias todo="vim ~/Documents/git-repos/Knowledge_Log/to-do-list.md"
-alias done="vim ~/Documents/git-repos/Knowledge_Log/completed-log.md"
-alias tt="cat ~/Dropbox/DAW/horario.md"
 alias git-repos="cd ~/Documents/git-repos/"
 alias tmuxcc="vim ~/Documents/git-repos/Tmux-CheatSheet/tmux-cheatsheet.markdown"
 alias gitcc="vim ~/Documents/git-repos/fch-recursos/git_cheatsheet.md"
 alias jsproject="python3 ~/Documents/git-repos/Scripts/jsproject.py"
-alias session="vim -S Session.vim"
 alias ll="ls -la"
-alias bioinf="cd ~/Documents/git-repos/Internship/bioinfo-apps"
 alias www="cd /Library/WebServer/Documents"
 alias gitl='git log --graph --abbrev-commit --decorate --format=format:"%C(bold yellow)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n"" %C(white)%s%C(reset) %C(dim white)- %an%C(reset)" --all'
 
